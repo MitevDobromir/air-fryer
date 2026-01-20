@@ -1,0 +1,155 @@
+# Blender 5.0.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Base
+Ns 902.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Black_Glossy
+Ns 902.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Black_Knobs
+Ns 902.500000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Black_Matte
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Black_Noised
+Ka 0.809091 0.809091 0.809091
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ns /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/BlackNoised_RoughnessBaked.png
+map_Bump -bm 1.000000 /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/BlackNoised_NormalBaked.png
+
+newmtl Coil
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Glass
+Ns 601.540649
+Ka 0.401575 0.401575 0.401575
+Kd 0.184479 0.184479 0.184479
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.692913
+illum 6
+
+newmtl Knobs_Texture
+Ns 810.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.389129 0.389129 0.389129
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Light
+Ns 841.481262
+Ka 1.000000 1.000000 1.000000
+Kd 0.184467 0.184467 0.184467
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Metal
+Ns 640.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.707961 0.578053
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Metal_Brushed
+Ka 0.787402 0.787402 0.787402
+Kd 0.318536 0.318536 0.318536
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ns /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/BrushedMetal_RoughnessBaked.png
+
+newmtl Metal_Noise
+Ka 0.901038 0.901038 0.901038
+Kd 0.383277 0.383277 0.383277
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Ns /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/MetalNoise_RoughnessBaked.png
+map_Bump -bm 1.000000 /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/MetalNoised_NormalBaked_1.png
+
+newmtl Metal_Rough
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.615176 0.615176 0.615176
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Pan
+Ka 0.945455 0.945455 0.945455
+Kd 0.009086 0.009086 0.009086
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Ns /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/PanRoughness_Baked.png
+map_d /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/Pan_AlphaBaked.png
+map_Bump -bm 1.000000 /d/Blender/Projects/Product_Modeling/Kitchen/AirFryer/Textures/Pan_NormalBaked.png
+
+newmtl Top
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
